@@ -1,0 +1,7 @@
+setup.py
+shapedraw/__init__.py
+shapedraw/shapes.py
+shapedraw.egg-info/PKG-INFO
+shapedraw.egg-info/SOURCES.txt
+shapedraw.egg-info/dependency_links.txt
+shapedraw.egg-info/top_level.txt
